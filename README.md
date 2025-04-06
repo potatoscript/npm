@@ -1,3 +1,20 @@
+# NPM Tutorial
+
+| Title | Remark |
+|-------|--------|
+| [Introduction to NPM](https://github.com/potatoscript/npm/wiki/Introduction-to-NPM) | Learn what NPM is, its purpose, and why it’s essential for JavaScript developers. |
+| [Installing NPM](https://github.com/potatoscript/npm/wiki/Installing-NPM) | Step-by-step guide on how to install NPM on your computer. |
+| [Understanding NPM Packages](https://github.com/potatoscript/npm/wiki/Understanding-NPM-Packages) | Learn what NPM packages are, how to install and use them in your projects. |
+| [Using the NPM Command Line](https://github.com/potatoscript/npm/wiki/Using-the-NPM-Command-Line) | Explore the most common NPM commands and their functions. |
+| [Creating a package.json File](https://github.com/potatoscript/npm/wiki/Creating-a-package.json-File) | Understand the structure and importance of the `package.json` file in your projects. |
+| [Managing Dependencies with NPM](https://github.com/potatoscript/npm/wiki/Managing-Dependencies-with-NPM) | Learn how to manage project dependencies using NPM and keep them updated. |
+| [NPM Scripts](https://github.com/potatoscript/npm/wiki/NPM-Scripts) | Automate tasks in your project with NPM scripts and learn how to run them. |
+| [Publishing an NPM Package](https://github.com/potatoscript/npm/wiki/Publishing-an-NPM-Package) | Learn the steps required to publish your own NPM package for others to use. |
+| [NPM Best Practices](https://github.com/potatoscript/npm/wiki/NPM-Best-Practices) | Discover best practices for using NPM to keep your projects organized and efficient. |
+| [Troubleshooting NPM Issues](https://github.com/potatoscript/npm/wiki/Troubleshooting-NPM-Issues) | Common problems you might face with NPM and how to solve them quickly. |
+
+
+
 # How to Publish Your JavaScript Library to npm
 
 Welcome to the guide on how to create and share your own JavaScript library! With this tutorial, you will learn step by step how to write, publish, and update your library so that other people can use it.
